@@ -4,6 +4,8 @@
 
 The PayrollManager is a smart contract module designed for integration with the Unhosted Wallet, specifically tailored for managing employee payrolls in a decentralized environment. This module provides a streamlined and secure way to handle payroll operations including adding, removing, updating salaries, and processing payments for employees.
 
+![Alt text](segment.png)
+
 ## Features
 
 - **Employee Management**: Add and remove employees from the payroll system.
